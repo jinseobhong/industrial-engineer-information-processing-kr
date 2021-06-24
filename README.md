@@ -47,790 +47,129 @@
       <td colspan="6">정보 시스템 기반 기술을 활용하여 소프트웨어 기능에 대한 구현 및 테스트를 수행하고 사용자에게 배포하는 직무이다.</td>
     </tr>
     <tr>
-      <td>필기검정방법</td>
+      <td>필기 검정방법</td>
       <td>객관식</td>
-      <td>문제수</td>
+      <td>문제 수</td>
       <td>60</td>
-      <td>시험시간</td>
+      <td>시험 시간</td>
       <td colspan="2">1시간 30분</td>
     </tr>
   </tbody>
-  </table>
-  <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
- <thead>
-  <tr style="height:21.3pt">
-   <td width="93" style="width:69.65pt;border:solid black 1.0pt;background:#E5E5E5;
-   padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-   <p class="a" align="center" style="text-align:center;line-height:normal;
-   word-break:normal"><b><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">필기과목명</span></b></p>
-   </td>
-   <td width="48" style="width:35.7pt;border:solid black 1.0pt;border-left:none;
-   background:#E5E5E5;padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-   <p class="a" align="center" style="text-align:center;line-height:normal;
-   word-break:normal"><b><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">문제수</span></b></p>
-   </td>
-   <td width="123" style="width:92.3pt;border:solid black 1.0pt;border-left:none;
-   background:#E5E5E5;padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-   <p class="a" align="center" style="text-align:center;line-height:normal;
-   word-break:normal"><b><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">주요항목</span></b></p>
-   </td>
-   <td width="186" style="width:139.4pt;border:solid black 1.0pt;border-left:
-   none;background:#E5E5E5;padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-   <p class="a" align="center" style="text-align:center;line-height:normal;
-   word-break:normal"><b><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">세부항목</span></b></p>
-   </td>
-   <td width="227" style="width:170.25pt;border:solid black 1.0pt;border-left:
-   none;background:#E5E5E5;padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-   <p class="a" align="center" style="text-align:center;line-height:normal;
-   word-break:normal"><b><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">세세항목</span></b></p>
-   </td>
+  <table>
+<thead>
+  <tr>
+    <th>필기 과목명</th>
+    <th>문제 수</th>
+    <th>주요 항목</th>
+    <th>세부 항목</th>
+    <th>세세 항목</th>
   </tr>
- </thead>
- <tbody><tr style="height:81.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">정보시스템 기반 기술</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">20</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a1" style="margin-left:16.3pt;text-indent:-16.3pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1.
-  <span lang="ZH-CN">응용</span> SW <span lang="ZH-CN">기초 기술 활용</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1. <span lang="ZH-CN">운영체제
-  기초 활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">운영체제 개념</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">운영체제 종류
-  및 특징</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">운영체제 기본명령어</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">4. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">쉘 스크립트</span><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">(Shell Script)</span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:96.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2. <span lang="ZH-CN">네트워크
-  기초 활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">프로토콜</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">2. </span><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">OSI-7 <span lang="ZH-CN">계층</span></span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">인터넷 구성</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">4. </span><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">TCP/UDP</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">5. </span><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">IP <span lang="ZH-CN">주소 체계</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:81.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">3. <span lang="ZH-CN">기본
-  개발환경 구축</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">개발자 개발환경
-  구축</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">개발도구 설치</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">라이브러리
-  패키지 설치</span></p>
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">4. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">소프트웨어
-  버전관리 도구 설치</span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:51.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">2. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;
-  letter-spacing:-.55pt">애플리케이션 설계</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:1.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;
-  letter-spacing:-.5pt">1. <span lang="ZH-CN">공통 모듈 설계</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">1. <span lang="ZH-CN">설계 모델링 개념</span></span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">2. <span lang="ZH-CN">소프트웨어 아키텍처 개념</span></span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:51.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:1.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;
-  letter-spacing:-.5pt">2. <span lang="ZH-CN">객체지향 설계</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:51.3pt">
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">1. <span lang="ZH-CN">객체지향</span>(OOP) <span lang="ZH-CN">이해</span></span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">2. <span lang="ZH-CN">디자인패턴 개념</span></span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.5pt">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:96.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">3. <span lang="ZH-CN">테스트
-  및 배포</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="a0" style="margin-left:13.45pt;text-indent:-13.45pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:
-  0pt">1. <span lang="ZH-CN">애플리케이션 테스트 수행</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:96.3pt">
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">통합개발환경</span><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">(IDE) <span lang="ZH-CN">도구 활용</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">2. <span lang="ZH-CN">프로그램 디버깅</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">단위테스트</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">4. <span lang="ZH-CN">통합테스트</span></span></p>
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">5. <span lang="ZH-CN">애플리케이션
-  결함 관리</span></span></p>
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:53.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">2. UI <span lang="ZH-CN">테스트</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">UI/UX
-  <span lang="ZH-CN">개념</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">2. UI <span lang="ZH-CN">테스트 기법</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:85.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a0" style="margin-left:13.45pt;text-indent:-13.45pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:
-  -.5pt">3. <span lang="ZH-CN">애플리케이션 배포</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">소스코드
-  검증 기법</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">2. <span lang="ZH-CN">형상관리</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">애플리케이션 빌드 </span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">4. <span lang="ZH-CN">애플리케이션 배포 도구</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:67.15pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:67.15pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.3pt">프로그래밍
-  언어 활용</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:67.15pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">20</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:67.15pt">
-  <p class="a1" style="margin-left:13.45pt;text-indent:-13.45pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1.
-  <span lang="ZH-CN">프로그래밍 언어 활용</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:67.15pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1. <span lang="ZH-CN">기본문법
-  활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:67.15pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">데이터
-  타입</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">변수</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">연산자
-  및 명령문</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:69.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:69.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:69.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:69.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:69.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2. <span lang="ZH-CN">언어특성
-  활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:69.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">절차적
-  프로그래밍 언어</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">객체지향
-  프로그래밍 언어</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">스크립트
-  언어</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:85.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a2" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;layout-grid-mode:both;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">3. <span lang="ZH-CN">라이브러리
-  활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">데이터
-  입출력</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">파일
-  입출력</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">예외
-  처리</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">4. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">프로토타입</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:53.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a2" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;layout-grid-mode:both;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:
-  -.45pt">2. <span lang="ZH-CN">프로그램 구현</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1. <span lang="ZH-CN">개발환경
-  구축</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">개발환경
-  구축</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">서버
-  프레임워크 이해</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:85.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a0" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:0pt">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2. <span lang="ZH-CN">공통
-  모듈 구현</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:85.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">재사용</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">모듈화
-  기법</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">결합도</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">4. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">응집도</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:53.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a2" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;layout-grid-mode:both;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">3. <span lang="ZH-CN">화면
-  구현</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">UI
-  <span lang="ZH-CN">프레임워크</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">2. HTML, CSS,
-  JAVASCRIPT</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:66.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:66.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:66.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:66.3pt">
-  <p class="a2" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;layout-grid-mode:both;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:66.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">4. <span lang="ZH-CN">서버
-  프로그램 구현</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:66.3pt">
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">1. <span lang="ZH-CN">보안 취약성 개념</span></span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">2. API</span></p>
-  <p class="a" style="margin-top:0in;margin-right:1.0pt;margin-bottom:2.0pt;
-  margin-left:11.0pt;text-indent:-10.0pt;line-height:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">인터페이스 이해</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:81.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">데이터베이스 활용</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">20</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a1" style="margin-left:89.6pt;text-indent:-89.6pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1.
-  <span lang="ZH-CN" style="letter-spacing:-.6pt">데이터베이스 이해</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1. <span lang="ZH-CN">데이터베이스
-  기초 활용</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:81.3pt">
-  <p class="xl65" style="margin-left:0in;text-align:justify;text-justify:inter-ideograph;
-  text-indent:0in;layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">데이터베이스
-  개념</span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">2. <span lang="ZH-CN">데이터베이스 유형 및 특징</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">데이터 무결성</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">4. <span lang="ZH-CN">엔티티 및 릴레이션</span></span></p>
-  <p class="xl65" style="text-align:justify;text-justify:inter-ideograph;
-  layout-grid-mode:char;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:101.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:101.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:101.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:101.3pt">
-  <p class="a1" style="margin-left:89.6pt;text-indent:-89.6pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:101.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2. <span lang="ZH-CN">논리
-  데이터베이스 설계</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:101.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">자료구조의
-  이해</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">E-R
-  <span lang="ZH-CN">모델링 이해</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">정규화 이해</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">4. <span lang="ZH-CN">데이터 간 관계</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">5. <span lang="ZH-CN">데이터 간 제약조건</span></span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:37.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:37.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:37.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:37.3pt">
-  <p class="a1" style="margin-left:89.6pt;text-indent:-89.6pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:37.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">3. <span lang="ZH-CN">물리
-  데이터베이스 설계</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:37.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">물리
-  데이터저장소</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:88.8pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:88.8pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:88.8pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:88.8pt">
-  <p class="a1" style="margin-left:89.6pt;text-indent:-89.6pt;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2.
-  SQL<span lang="ZH-CN">활용</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:88.8pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">1. <span lang="ZH-CN">기본</span>
-  SQL <span lang="ZH-CN">작성</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:88.8pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">DDL(Data
-  Definition Language)</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">DML(Data
-  Manipulation Language)</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">DCL(Data
-  Control Language)</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif;letter-spacing:-.15pt">4. </span><span style="font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.15pt">TCL(Transaction
-  Control Language)</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:91.8pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:91.8pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:91.8pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:91.8pt">
-  <p class="xl65" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:91.8pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">2. <span lang="ZH-CN">고급</span>
-  SQL <span lang="ZH-CN">작성</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:91.8pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">집합연산자</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">조인</span><span style="font-family:&quot;HYGothic-Medium&quot;,serif">, <span lang="ZH-CN">서브쿼리</span></span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">3. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">뷰</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">4. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">인덱스</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:53.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="xl65" style="margin-left:13.45pt;text-align:justify;text-justify:
-  inter-ideograph;text-indent:-13.45pt;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">3. <span lang="ZH-CN">데이터베이스 프로그래밍</span></span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;font-weight:normal">3. <span lang="ZH-CN">데이터
-  조작 프로시저 작성</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border:none;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:53.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">프로시저
-  이해</span></p>
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">2. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">프로시저
-  오류처리 이해</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
- <tr style="height:21.3pt">
-  <td width="93" valign="top" style="width:69.65pt;border:solid black 1.0pt;
-  border-top:none;padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="48" valign="top" style="width:35.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.4pt 1.4pt 1.4pt 1.4pt;
-  height:21.3pt">
-  <p class="a" align="center" style="text-align:center;word-break:normal"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="123" valign="top" style="width:92.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-  <p class="xl65" style="margin-left:89.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-89.6pt;background:transparent;word-break:break-all"><span style="font-size:10.0pt;font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
-  <td width="186" valign="top" style="width:139.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-  <p class="a1" style="line-height:normal"><span style="font-size:10.0pt;
-  font-family:&quot;HYGothic-Medium&quot;,serif;letter-spacing:-.25pt;font-weight:normal">4.
-  <span lang="ZH-CN">데이터 조작 프로시저 최적화</span></span></p>
-  </td>
-  <td width="227" valign="top" style="width:170.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:1.4pt 1.4pt 1.4pt 1.4pt;height:21.3pt">
-  <p class="a" style="margin-left:0in;text-indent:0in"><span style="font-family:
-  &quot;HYGothic-Medium&quot;,serif">1. </span><span lang="ZH-CN" style="font-family:&quot;HYGothic-Medium&quot;,serif">쿼리
-  성능 측정 도구</span></p>
-  <p class="a"><span style="font-family:&quot;HYGothic-Medium&quot;,serif">&nbsp;</span></p>
-  </td>
- </tr>
-</tbody></table>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="8">정보 시스템 기반 기술</td>
+    <td rowspan="8">20</td>
+    <td rowspan="3">1. 응용 SW 기초 기술 활용<br></td>
+    <td>1. 운영체제 기초 활용</td>
+    <td>1. 운영체제 개념<br>2. 운영체제 종류 및 특징<br>3. 운영체제 기본 명령어<br>4. 쉘 스크립트(Shell script)</td>
+  </tr>
+  <tr>
+    <td>2. 네트워크 기초 활용</td>
+    <td>1. 프로토콜<br>2. OSI-7 계층<br>3. 인터넷 구성<br>4. TCP 및 UDP<br>5. IP 주소 체계</td>
+  </tr>
+  <tr>
+    <td>3. 기본 개발 환경 구축</td>
+    <td>1. 개발자 개발 환경 구축<br>2. 개발 도구 설치<br>3. 라이브러리 패키지 설치<br>4. 소프트웨어 버전 관리 도구 설치</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2. 애플리케이션 설계</td>
+    <td>1. 공통 모듈 설계</td>
+    <td>1. 설계 모델링 개념<br>2. 소프트웨어 아키텍처 개념</td>
+  </tr>
+  <tr>
+    <td>2. 객체 지향 설계</td>
+    <td>1. 객체 지향 프로그래밍(OOP)에 대한 이해<br>2. 디자인 패턴 개념</td>
+  </tr>
+  <tr>
+    <td rowspan="3">3. 테스트 및 배포</td>
+    <td>1. 애플리케이션 테스트 수행</td>
+    <td>1. 통합 개발 환경(IDE) 도구 활용<br>2. 프로그램 디버깅<br>3. 단위 테스트<br>4. 통합 테스트<br>5. 애플리케이션 결함 관리</td>
+  </tr>
+  <tr>
+    <td>2. UI 테스트</td>
+    <td>1. UI/UX 개념<br>2. UI 테스트 기법</td>
+  </tr>
+  <tr>
+    <td>3. 애플리케이션 배포</td>
+    <td>1. 소스 코드 검증 기법<br>2. 형상 관리<br>3. 애플리케이션 빌드<br>4. 애플리케이션 배포 도구</td>
+  </tr>
+  <tr>
+    <td rowspan="7">프로그래밍 언어 활용</td>
+    <td rowspan="7">20</td>
+    <td rowspan="3">1. 프로그래밍 언어 활용</td>
+    <td>1. 기본 문법 활용</td>
+    <td>1. 데이터 타입<br>2. 변수<br>3. 연산자 및 명령문</td>
+  </tr>
+  <tr>
+    <td>2. 언어 특성 활용</td>
+    <td>1. 절차적 프로그래밍 언어<br>2. 객체 지향 프로그래밍 언어<br>3. 스크립트 언어</td>
+  </tr>
+  <tr>
+    <td>3. 라이브러리 활용</td>
+    <td>1. 데이터 입출력<br>2. 파일 입출력<br>3. 예외 처리<br>4. 프로토 타입</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2. 프로그램 구현</td>
+    <td>1. 개발 환경 구축</td>
+    <td>1. 개발 환경 구축<br>2. 서버 프레임워크 이해</td>
+  </tr>
+  <tr>
+    <td>2. 공통 모듈 구현</td>
+    <td>1. 재사용<br>2. 모듈화 기법<br>3. 결합도<br>4. 응집도</td>
+  </tr>
+  <tr>
+    <td>3. 화면 구현</td>
+    <td>1. UI 프레임워크<br>2. HTML, CSS, JAVASCRIPT</td>
+  </tr>
+  <tr>
+    <td>4. 서버 프로그램 구혅</td>
+    <td>1. 보완 취약성 개념<br>2. API<br>3. 인터페이스 이해</td>
+  </tr>
+  <tr>
+    <td rowspan="7">데이터 베이스 활용</td>
+    <td rowspan="7">20</td>
+    <td rowspan="3">1. 데이터베이스 이해</td>
+    <td>1. 데이터베이스 기초 활용</td>
+    <td>1. 데이터 베이스 개념<br>2. 데이터베이스 유형 및 특징<br>3. 데이터 무결성<br>4. 엔티티 및 릴레이션</td>
+  </tr>
+  <tr>
+    <td>2. 논리 데이터베이스 설계</td>
+    <td>1. 자료 구조의 이해<br>2. E-R 모델링 이해<br>3. 정규화 이해<br>4. 데이터 간 관계</td>
+  </tr>
+  <tr>
+    <td>3. 물리 데이터베이스 설계</td>
+    <td>1. 물리 데이터 저장소</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2. SQL 활용</td>
+    <td>1. 기본 SQL 작성</td>
+    <td>1. DDL(Data Definition Language)<br>2. DML(Data Manipulation Language)<br>3. DCL(Data Control Language)<br>4. TCL(Transaction Control Language)</td>
+  </tr>
+  <tr>
+    <td>2. 고급 SQL 작성</td>
+    <td>1. 집합 연산자<br>2. 조인, 서브 쿼리<br>3. 뷰<br>4. 인덱스</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3. 데이터베이스 프로그래밍</td>
+    <td>3. 데이터 조작 프로시저 작성</td>
+    <td>1. 프로시저 이해<br>2. 프로시저 오류 처리 이해</td>
+  </tr>
+  <tr>
+    <td>4. 데이터 조작 프로시저 최적화</td>
+    <td>1. 쿼리 성능 측정 도구</td>
+  </tr>
+</tbody>
+</table>
 </details>
 
 #### 실기 시험 출제 기준
