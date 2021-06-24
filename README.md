@@ -23,18 +23,24 @@
 ### 시험 출제 경향
 
 국가 IT 기술 경쟁력 제고 및 급변하는 정보화 환경에 대처하기 위하여 실무 중심 업무 처리 기능 및 절차 측면에서 해결 능력, 데이터베이스 설계 및 문제점 파악과 개선안 도출 등의 DB 실무 능력, 알고리즘 및 자료 구조의 논리적 해결 능력, 급변하는  IT 환경에 대한 신기술 동향 파악 능력, 국제화에 대비한 전산 영어 실무 능력 등을 평가합니다
-실기 시험은 필답형이 시행되며 고객지원 > 자료실의 [출제 기준](http://www.q-net.or.kr/cst006.do?id=cst00602&gSite=Q&gId=)을 참고 바랍니다.
 
-### 시험 시간 및 응시 방법
+### 시험 응시 방법
 
-- 2021년 제 2회 정기 산업처리기사 필기 시험 기준
--   필기 시험은 CTR 방식(컴퓨터로 응시)의 객관식 문제로 100문제로 이루어져 있다.
--   총 5가지 과목, 20 문제 씩 이루어져 있었으며, 과목 과락에 상관없이, 총점 60점을  
--   필기 시험의 시험 시간은 150분이다.
--   필기 시험 시 전자 계산기를 지참이 가능하다.(전자 계산기가 어떠한 모델인지는 확인하지 않았음)
--   
+- 필기 시험 응시 방법(2021년 제 2회 정기 산업처리기사 기준)
+   - 필기 시험은 CTR 방식(컴퓨터로 응시)의 객관식 문제로 100문제로 이루어져 있다.
+   - 총 5가지 과목(데이터 베이스, 전자계산기 구조, 시스템분석 설계, 운영 체제, 정보통신개론), 각 과목 당 20 문제로 이루어져 있었으며, 과목 과락은 없으며, 총점 60점을 획득하면 합격
+   - 필기 시험의 시험 시간은 150분이다.
+   - 필기 시험 시 전자 계산기를 지참이 가능하다.(전자 계산기가 어떠한 모델인지는 확인하지 않았다)
+   - 필기 시험에 사용하는 연습지를 시험관이 배포한다.
+- 실기 시험 응시 방법
+   - 추가 바람
+
+### 시험 출제 기준
+
+고객지원 > 자료실의 [출제 기준](http://www.q-net.or.kr/cst006.do?id=cst00602&gSite=Q&gId=)을 참고 바랍니다.
 
 #### 필기 시험 출제 기준
+
 <details>
  <summary>2020.01.01 ~ 2022.12.31 정보처리산업기사 필기 시험 출제 기준</summary>
   <img src="https://user-images.githubusercontent.com/65880526/123282439-778b2700-d545-11eb-832e-dc129537b0a9.png">
@@ -47,6 +53,20 @@
   <img src="https://user-images.githubusercontent.com/65880526/123282917-dea8db80-d545-11eb-9376-dcf7a31d6f4b.png">
   <img src="https://user-images.githubusercontent.com/65880526/123282924-df417200-d545-11eb-86ef-eb19d0b6d3b9.png">
   <img src="https://user-images.githubusercontent.com/65880526/123282927-dfda0880-d545-11eb-8f79-0c991abad96e.png">
+</details>
+
+##### 실기 시험 출제 기준
+
+<details>
+ <summary>2020.01.01 ~ 2022.12.31 정보처리산업기사 실기 시험 출제 기준</summary>
+  <img src="https://user-images.githubusercontent.com/65880526/123285444-0436e480-d548-11eb-9278-4b543f5e9d0d.png">
+</details>
+<details>
+  <summary>2022.01.01 ~ 2024.12.31 정보처리산업기사 실기 시험 출제 기준</summary>
+  <img src="https://user-images.githubusercontent.com/65880526/123286611-051c4600-d549-11eb-87bf-b0027a3ddcdf.png">
+  <img src="https://user-images.githubusercontent.com/65880526/123286615-064d7300-d549-11eb-9e8f-aa9fcdf58754.png">
+  <img src="https://user-images.githubusercontent.com/65880526/123286622-06e60980-d549-11eb-99d0-c0a74ca09cff.png">
+  <img src="https://user-images.githubusercontent.com/65880526/123286625-08173680-d549-11eb-92c7-2e4bfe84df8a.png">
 </details>
 
 #### 시험과목 및 활용 국가직무능력표준(NCS)
